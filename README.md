@@ -12,7 +12,7 @@ Dashboard: A visual dashboard summarizing key metrics such as sales, products, c
 Pivot Tables: Pre-configured pivot tables to help analyze and summarize data effortlessly.<br/>
 VBA Macros: Custom macros to automate repetitive tasks, such as filtering data, formatting reports, and generating charts.<br/>
 
-### Key Features Overview
+### Key Features
 
 Data Import: Ability to automatically load and cleanse external data into your workbook.<br/>
 VBA Automation: Automated processes, such as generating weekly or monthly sales reports, by running a single macro.<br/>
